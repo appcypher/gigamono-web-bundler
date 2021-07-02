@@ -26,6 +26,7 @@
   - https://github.com/parcel-bundler/parcel/blob/repl/packages/core/repl/NOTES.md
   - https://github.com/parcel-bundler/parcel/tree/repl-v2-ide/packages/dev/repl (RECENT)
   - https://github.com/parcel-bundler/parcel/blob/repl/packages/core/repl/package.json
+  - https://v2.parceljs.org/plugin-system/overview/
 
 - Node API (Not supported)
 
