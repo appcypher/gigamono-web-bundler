@@ -1,0 +1,3 @@
+class Bundler {
+    codeSplitting: boolean;
+}

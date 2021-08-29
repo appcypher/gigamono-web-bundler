@@ -1,2 +1,2 @@
-# pico
-JS Projects Running in the Web
+# The Web Bundler
+Basic Rough Implementation of the Web Bundler

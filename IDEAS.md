@@ -17,7 +17,15 @@
 
   - Service Workers
 
-- Bundler (Parcel)
+- Bundler (Rollup)
+
+  - Bundling
+  - HMR Plugin
+
+### FUTURE
+
+
+- Parcel Bundler (for speed)
 
   - Bundling
   - HMR Plugin
@@ -28,6 +36,8 @@
   - https://github.com/parcel-bundler/parcel/blob/repl/packages/core/repl/package.json
   - https://v2.parceljs.org/plugin-system/overview/
 
-- Node API (Not supported)
+
+- Node API
 
   - https://www.npmjs.com/package/node-libs-browser
+
