@@ -21,6 +21,7 @@
 
   - Bundling
   - HMR Plugin
+  - https://github.com/rollup/rollup/issues/3012
 
 ### FUTURE
 
